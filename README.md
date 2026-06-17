@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-openclaw skills install git:<your-username>/kanshen-meme
+openclaw skills install git:Mosan-258/kanshen-meme
 ```
 
 ## 使用
